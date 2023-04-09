@@ -1,0 +1,147 @@
+.solou__h1 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 4px;
+text-transform: uppercase;
+color: #134A45;
+margin-top: 99px;
+}
+
+.solou__h2 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 49px;
+line-height: 57px;
+text-align: center;
+letter-spacing: 0.6px;
+color: #134A45;
+width: 702px;
+margin: auto;
+margin-top: 30px;
+}
+
+.solou__wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.solou__box {
+    max-width: 570px;
+    height: 789px;
+    width: 100%;
+    background: #134A45;
+    padding: 46px;
+}
+
+.solou__box:hover p  {
+    color: #CFD4D8;
+}
+.solou__box:hover h3  {
+    color: #CFD4D8;
+}
+
+.solou__box2:hover p  {
+    color: #CFD4D8;
+}
+.solou__box2:hover h3  {
+    color: #CFD4D8;
+}
+
+.solou__box2 {
+    max-width: 570px;
+    height: 789px;
+    width: 100%;
+    background: #96C9E9;
+    padding: 46px;
+}
+
+.block {
+    width: 363px;
+height: 270px;
+background: #134A45;
+margin-top: 80px;
+margin:  auto;
+}
+
+.block2 {
+    width: 363px;
+height: 270px;
+background: #96C9E9;
+margin-top: 80px;
+margin:  auto;
+}
+
+.solou__box-h {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #134A45;
+margin-top: 32px;
+}
+
+.solou__box2-h {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 40px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #96C9E9;
+margin-top: 32px;
+}
+
+.solou__box-p {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    margin: 0 auto;
+    text-align: center;
+    width: 367px;
+    letter-spacing: 0.2px;
+    color: #134A45;
+    margin-top: 32px;
+}
+
+.solou__box2-p {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+    margin: 0 auto;
+    width: 367px;
+    letter-spacing: 0.2px;
+    color: #96C9E9;
+    margin-top: 32px;
+}
+
+.solou__box-p2 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #134A45;
+margin-top: 94px;
+}
+
+.solou__box2-p2 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #96C9E9;
+margin-top: 94px;
+}

@@ -1,0 +1,59 @@
+.HOW {
+    background: #E5E8EB;
+    padding: 100px 0;
+}
+
+.how__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.how__h1 {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #134A45;
+    margin-bottom: 30px;
+}
+
+.how__h2 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 47px;
+line-height: 57px;
+letter-spacing: 0.6px;
+color: #134A45;
+width: 428px;
+margin-bottom: 35px;
+}
+
+.how__p1 {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: #134A45;
+    width: 407px;
+    margin-bottom: 19px;
+}
+
+.how__p2 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 17px;
+line-height: 28px;
+letter-spacing: 0.2px;
+color: #134A45;
+width: 409px;
+}
+
+.how__img2 {
+    position: relative;
+    top: -480px;
+    left: 453px;
+}

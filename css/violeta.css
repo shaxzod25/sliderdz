@@ -1,0 +1,156 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
+  
+  .container {
+    max-width: 1800px;
+    padding: 0 15px;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+   
+  }
+
+
+.violet {
+    background: #CFD4D8;
+    padding: 95px 0;
+}
+
+.violet__wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider {
+    height: 524px;
+    border: 1px solid red;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+.violet__wrap2 {
+    
+    align-items: center;
+    height: 524px;
+    width: 3400px;
+    display: flex;
+    gap: 40px;
+    position: relative;
+    left: 0;
+    transition: 1s;
+}
+
+.violen__preve {
+    padding: 18px;
+    background: #96C9E9;
+    border-radius: 9000px;
+}
+
+.violen__next {
+    padding: 18px;
+    background: #96C9E9;
+    border-radius: 9000px;
+}
+
+    
+.viol__h {
+    font-family: 'RR';
+    width: 617px;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    letter-spacing: 0.6px;
+    color: #134A45;
+}
+
+.viol__green {
+    background: #134A45;
+    width: 340px;
+    height: 524px;
+    padding: 40px;
+}
+
+.viol__green-h {
+    font-family: 'RR';
+    ;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #E5E8EB;
+}
+
+.viol__green-p {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #E5E8EB;
+    margin-top: 19px;
+    margin-bottom: 190px;
+}
+
+.viol__white {
+    background: #E5E8EB;
+    width: 340px;
+    height: 524px;
+    padding: 40px;
+
+}
+
+.viol__white-h {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #134A45;
+}
+
+.viol__white-p {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #134A45;
+    margin-top: 19px;
+    margin-bottom: 259px;
+}
+
+.viol__blue {
+    background: #96C9E9;
+    width: 340px;
+    height: 524px;
+    padding: 40px;
+}
+
+.viol__blue-h {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #134A45;
+}
+
+.viol__blue-p {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+    color: #134A45;
+    margin-top: 19px;
+    margin-bottom: 259px;
+}
+
+.card {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}

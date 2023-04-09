@@ -1,0 +1,112 @@
+.medical {
+    background: #134A45;
+   
+}
+
+.cart {
+    width: 145px;
+    background: #134A45;
+    position: relative;
+    bottom: 16px;
+    left: 70px;
+    z-index: 0;
+}
+
+.box {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #B961CD;
+    width: 1800px;
+    top: 60px;
+    height: 128px;
+    padding-left: 298px;
+    padding-right: 98px;
+}
+
+.box1__p1 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+max-width: 285px;
+width: 100%;
+position: absolute;
+top: 36px;
+}
+
+.box1__p2 {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+max-width: 307px;
+width: 100%;
+position: relative;
+top: 21px;
+}
+
+.medical__wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box2__p {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 13px;
+line-height: 22px;
+letter-spacing: 0.2px;
+color: #FFFFFF;
+width: 207px;
+}
+
+.box__p {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 15px;
+line-height: 30px;
+text-align: center;
+color: #E5E8EB;
+}
+
+.medi__p {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+letter-spacing: 4px;
+text-transform: uppercase;
+color: #E5E8EB;
+margin-bottom: 30px;
+}
+
+.medi__h {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+    letter-spacing: 0.6px; 
+    color: #E5E8EB;
+    max-width: 393px;
+    width: 100%;
+    margin-bottom: 35px;
+}
+
+.medi__p2 {
+    font-family: 'RR';
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    color: rgba(229, 232, 235, 0.69);
+    max-width: 456px;
+    width: 100%;
+}

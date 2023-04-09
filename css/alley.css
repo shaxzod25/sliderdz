@@ -1,0 +1,21 @@
+.alley {
+    padding: 100px 0;
+}
+
+.alley__h  {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 26px;
+line-height: 40px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #134A45;
+}
+
+.aley__logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 85px;
+    gap: 59px;
+    margin-left: 358px;
+}

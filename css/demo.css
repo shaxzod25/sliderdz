@@ -1,0 +1,58 @@
+.demo {
+    background: #96C9E9;
+    padding-top: 114px;
+}
+
+.demo__wrap {
+    text-align: center
+}
+.domo__h {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 50px;
+line-height: 57px;
+text-align: center;
+letter-spacing: 0.6px;
+color: #134A45;
+}
+
+.demo__p {
+    font-family: 'RR';
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+text-align: center;
+letter-spacing: 0.2px;
+color: #134A45;
+margin-top: 30px;
+margin-bottom: 44px;
+}
+
+.demo__btn {
+    font-family: 'RR';
+font-weight: 400;
+padding: 1px 95px 1px 45px;
+font-size: 25px;
+line-height: 57px;
+text-align: center;
+color: #E5E8EB;
+background: #134A45;
+margin: 0 auto;
+transition: 0.1s;
+}
+
+.demo__btn:hover {
+    color: #134A45;
+background: #E5E8EB;
+}
+
+
+
+.volna {
+    position: relative;
+    top: 6px;
+    background: url(../img/vlnaa.png) no-repeat center right/cover;
+    width: 100%;
+    height: 500px;
+    margin-top: 380px;
+}
